@@ -8,10 +8,7 @@ let noun = ['jogger', 'racoon'];
     
 
 function domainName (){
-    let a=0;
-    let b=0;
-    let c=0;
-    
+
     let temp = "";
     
     for (let a=0;a<pronoun.length;a++)
